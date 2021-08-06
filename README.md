@@ -11,5 +11,5 @@ I use media human's youtube to mp3 converter for my offline music playlist. Howe
 using:
 run the bash script to install dependencies then put the pythion script in the same folder as your playlist and run it from a terminal. 
 
-#only for use on linux systems
+# only for use on linux systems
  - tested on Ubuntu 20.04
